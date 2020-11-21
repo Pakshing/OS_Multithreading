@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pakshingkan/Desktop/FALL2020/CS149/Code/UniqueWords/library.c
+library.h
+/Users/pakshingkan/Desktop/FALL2020/CS149/Code/UniqueWords/library.h
+stdio.h
+-
+
+/Users/pakshingkan/Desktop/FALL2020/CS149/Code/UniqueWords/library.h
+

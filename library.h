@@ -1,0 +1,6 @@
+#ifndef UNIQUEWORDS_LIBRARY_H
+#define UNIQUEWORDS_LIBRARY_H
+
+void hello(void);
+
+#endif //UNIQUEWORDS_LIBRARY_H
